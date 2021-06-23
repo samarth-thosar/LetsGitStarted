@@ -20,7 +20,7 @@ We don't care if you break things here. This is a playground which will make you
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/start-here-guidelines.git
+    git clone https://github.com/<your-github-username>/LetsGitStarted.git
     ```
 
     **Replace \<your-github-username\>!**
