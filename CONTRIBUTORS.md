@@ -4,4 +4,4 @@
 
 Sahil Patil(B3nzeneKnight)
 
--[@OmKhode](https://www.linkedin.com/in/om-khode/)
+-[@Om-Khode](https://www.linkedin.com/in/om-khode/)
